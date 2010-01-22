@@ -66,7 +66,7 @@
 (define TEXT_COLOR (make-rgb 20/255 20/255 20/255))
 (define WALL_COLOR (make-rgb 50/255 50/255 50/255))
 (define BORDER_COLOR (make-rgb 90/255 90/255 90/255))
-(define BOMB_COLOR (make-rgb 250/255 200/255 100/255))
+(define BOMB_COLOR (make-rgb 255/255 0/255 0/255))
 (define BASE_COLOR (make-rgb 140/255 220/255 100/255))
 (define BASE_EMPTY_COLOR (make-rgb 170/255 230/255 130/255))
 (define CLOSED_COLOR (make-rgb 120/255 120/255 120/255))
