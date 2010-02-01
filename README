@@ -4,8 +4,9 @@ Written by Torben Wichers, Karsten König
 
 Description
 
-This game was part of an exercise of the 1st term programming lecture of the Leibniz Universität Hannover.The goal was to program a version of the Microsoft-game Minesweeper with hexagons. Also
-you should be able to solve the game by pushing the key 's'.
+This game was part of an exercise of the 1st term programming lecture of the Leibniz Universität Hannover. 
+The goal was to program a version of the Microsoft-game Minesweeper with hexagons. Also you should be able 
+to solve the game by pushing the key 's'.
 
 Usage
 
